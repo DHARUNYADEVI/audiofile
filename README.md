@@ -151,15 +151,15 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 ### Play
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5844528b-32af-4beb-bf2a-adc1f455ef15" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7fb29404-6a4f-4b0b-b8bc-b62a3bcea375" />
 
 
 ## Pause
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ab1438f-fc5c-45ba-a2dc-511f2558a89f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ac78297-0819-4dd2-833e-229af48f4f8c" />
 
 
 ## Stop
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cb65bc10-e7a1-4432-998f-8865596ca412" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b85c71c7-6c62-4e57-95d2-9211f76cf8f9" />
 
 
 ## RESULT
